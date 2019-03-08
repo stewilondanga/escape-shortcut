@@ -28,7 +28,7 @@ body {
   width: 900px;
 }
 
-/*h1 {
+h1 {
   font-weight: normal;
   line-height: 1.1;
   font-family: 'Quicksand', sans-serif;
@@ -36,7 +36,7 @@ body {
   font-size: 3em;
 }
 
-dl {
+/*dl {
   font-family: 'Droid Sans Mono', monospace;
   float: left;
   width: 300px;
