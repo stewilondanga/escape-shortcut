@@ -1,4 +1,12 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600|Droid+Sans+Mono|Quicksand);
+
+body {
+  background: #292426;
+  color: #fff;
+  line-height: 1.5;
+  font-family: 'Open Sans', sans-serif;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -22,12 +30,6 @@
   height: 1.5em;
 }
 
-body {
-  background: #292426;
-  color: #fff;
-  line-height: 1.5;
-  font-family: 'Open Sans', sans-serif;
-}
 
 .container {
   overflow: hidden;
